@@ -11,7 +11,7 @@
 🔎 Atualmente estou me aperfeiçoando em linguagens Back-End
 
 
-### Eu já trabalhei com... 🔧
+### Já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
 
