@@ -2,11 +2,11 @@
 
 ### Sobre mim
 
-💻 Eu sou um estudante de tecnologia.
+💻 Sou um estudante de tecnologia.
 
-🎓 Eu estudo Tecnologia em Sistemas para Internet
+🎓 Estudo Tecnologia em Sistemas para Internet
 
-👩‍💻 Atualmente eu trabalho como Editor de Vídeo na Câmara Municipal de Coxim
+👩‍💻 Atualmente trabalho como Editor de Vídeo na Câmara Municipal de Coxim
 
 🔎 Atualmente estou me aperfeiçoando em linguagens Back-End
 
