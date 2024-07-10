@@ -34,9 +34,9 @@
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/catanozi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catanozi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catanozi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/catanozi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catanozi&show_icons=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catanozi&layout=compact&langs_count=16&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
