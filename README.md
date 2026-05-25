@@ -32,15 +32,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-### GitHub Stats ⚡
-
-<div align="center">
-
-![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=catanozi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=catanozi&layout=compact&theme=gotham)
-
-</div>
 
 ### Entre em contato comigo! 📭
 <div>
