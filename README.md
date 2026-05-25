@@ -35,10 +35,11 @@
 ### GitHub Stats ⚡
 
 <div align="center">
-  <a href="https://github.com/catanozi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catanozi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catanozi&layout=compact&langs_count=8&theme=gotham"/>
-  </a>
+
+![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=catanozi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=catanozi&layout=compact&theme=gotham)
+
 </div>
 
 ### Entre em contato comigo! 📭
